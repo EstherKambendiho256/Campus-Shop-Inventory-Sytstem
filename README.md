@@ -1,8 +1,8 @@
 # Campus-Shop-Inventory-Sytstem
 Campus-Shop-Inventory-Sytstem developed using Java
 BUGEMBE DANIEL VICTOR                      25/U/14996/PS
-KAMBENDIHO ESTHER                          25/U/15086/PS
-BAGYE SANDRAH BARIGYE                      25/U/14975/PS
+KAMBENDIHO ESTHER                          25/U/15086/EVE
+BAGYE SANDRAH BARIGYE                      25/U/14975/EVE
 NABUKEERA BASHIRA                          24/U/07904/PS
 NALUMU DOREEN                              25/U/15440/PS
 How to run
